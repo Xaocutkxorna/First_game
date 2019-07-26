@@ -4,8 +4,8 @@
 Сама игрушка довольно простая, но залипательная.  
 Цель игры набрать сто душ, при любом столкновении с ангелом игра окончена. 
 Управление осуществляется клавшами W,S,A,D    
-[![Меню](//placehold.it/150x100)](https://pp.userapi.com/c855020/v855020510/a41b9/6Wz_Axjg71o.jpg)    
-[![Игра](//placehold.it/150x100)](https://pp.userapi.com/c855020/v855020510/a417a/_XEhl6qtieY.jpg)   
-[![Меню в случае поражения](//placehold.it/150x100)](https://pp.userapi.com/c855020/v855020510/a41f2/A3R9aSrNhFM.jpg)     
+[![Меню](//placehold.it/150x100)](https://pp.userapi.com/c855020/v855020510/a41b9/6Wz_Axjg71o.jpg)        
+[![Игра](//placehold.it/150x100)](https://pp.userapi.com/c855020/v855020510/a417a/_XEhl6qtieY.jpg)     
+[![Меню в случае поражения](//placehold.it/150x100)](https://pp.userapi.com/c855020/v855020510/a41f2/A3R9aSrNhFM.jpg)       
 Для победителя есть бонус)  
 Приятной игры!  
